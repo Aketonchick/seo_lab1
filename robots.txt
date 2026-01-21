@@ -4,4 +4,4 @@ Allow: /#*
 Disallow: /admin/
 Disallow: /private/
 
-Sitemap: https://aketonchick.github.io/seo_lab1/sitemap.xml
+Sitemap: https://aketonchick.github.io/sitemap.xml
