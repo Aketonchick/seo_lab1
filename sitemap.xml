@@ -4,134 +4,44 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     
-    <!-- Приоритеты и частота обновления:
-         - Главная страница: самый высокий приоритет (1.0), обновляется ежедневно
-         - Основные страницы: высокий приоритет (0.8), обновляются еженедельно
-         - Контакты: средний приоритет (0.6), обновляется ежемесячно
-    -->
-    
     <!-- Главная страница -->
     <url>
-        <loc>https://мир-чая.рф/</loc>
-        <lastmod>2023-10-15</lastmod>
+        <loc>https://aketonchick.github.io/</loc>
+        <lastmod>2025-12-30</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     
     <!-- Страница "Виды чая" -->
     <url>
-        <loc>https://мир-чая.рф/vidy-chaya</loc>
-        <lastmod>2023-10-10</lastmod>
+        <loc>https://aketonchick.github.io/#types</loc>
+        <lastmod>2025-12-30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <!-- Страница "Польза чая" -->
     <url>
-        <loc>https://мир-чая.рф/polza-chaya</loc>
-        <lastmod>2023-10-05</lastmod>
+        <loc>https://aketonchick.github.io/#benefits</loc>
+        <lastmod>2025-12-30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <!-- Страница "Заваривание чая" -->
     <url>
-        <loc>https://мир-чая.рф/zavarivanie-chaya</loc>
-        <lastmod>2023-09-28</lastmod>
+        <loc>https://aketonchick.github.io/#brewing</loc>
+        <lastmod>2025-12-30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <!-- Страница "Контакты" -->
     <url>
-        <loc>https://мир-чая.рф/kontakty</loc>
-        <lastmod>2023-09-20</lastmod>
+        <loc>https://aketonchick.github.io/#contact</loc>
+        <lastmod>2025-12-30</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
-    </url>
-    
-    <!-- Дополнительные страницы (если будут добавлены позже) -->
-    
-    <!-- Статьи о чае (пример для будущих страниц) -->
-    <url>
-        <loc>https://мир-чая.рф/statji/istoriya-chaya</loc>
-        <lastmod>2023-09-15</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    
-    <url>
-        <loc>https://мир-чая.рф/statji/kitayskie-chaynye-tradicii</loc>
-        <lastmod>2023-09-10</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    
-    <url>
-        <loc>https://мир-чая.рф/statji/angliyskoe-chaepitie</loc>
-        <lastmod>2023-09-05</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    
-    <!-- Страницы категорий (пример для будущих страниц) -->
-    <url>
-        <loc>https://мир-чая.рф/katalog/zeleniy-chay</loc>
-        <lastmod>2023-10-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://мир-чая.рф/katalog/cherniy-chay</loc>
-        <lastmod>2023-09-25</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://мир-чая.рф/katalog/ulun</loc>
-        <lastmod>2023-09-18</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://мир-чая.рф/katalog/puer</loc>
-        <lastmod>2023-09-12</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <!-- Страницы мероприятий (пример для будущих страниц) -->
-    <url>
-        <loc>https://мир-чая.рф/meropriyatiya/chaynye-ceremonii</loc>
-        <lastmod>2023-10-12</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    
-    <url>
-        <loc>https://мир-чая.рф/meropriyatiya/master-klassy</loc>
-        <lastmod>2023-10-08</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    
-    <!-- Страница "О нас" (пример для будущих страниц) -->
-    <url>
-        <loc>https://мир-чая.рф/o-nas</loc>
-        <lastmod>2023-08-20</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <!-- Страница "Политика конфиденциальности" (обязательная страница) -->
-    <url>
-        <loc>https://мир-чая.рф/politika-konfidencialnosti</loc>
-        <lastmod>2023-08-01</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.3</priority>
     </url>
     
 </urlset>
